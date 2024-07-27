@@ -7,7 +7,7 @@ public class CalculatorTests
     public void FirstTestMethod()
     {
         // Arrange
-        int expectedResult = 2;
+        int expectedResult = 20;
 
         // Act
         int actualResult = 2;
